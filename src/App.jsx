@@ -1,11 +1,11 @@
-import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
-import About from "./components/About";
+import Navbar from "./components/navbar";
+import Hero from "./components/hero";
+import About from "./components/about";
 import Education from "./components/Education";
-import Skills from "./components/Skills";
+import Skills from "./components/skills";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
-import Contact from "./components/Contact";
+import Contact from "./components/contact";
 import Footer from "./components/Footer";
 import Background from "./components/Background";
 
